@@ -47,3 +47,4 @@ const cadastrar = (client) => {
 //hbairro = document.getElementById("bairro");
 
 //document.getElementById('concluir').addEventListener('click',cadastroHospital)
+sdfsdfsdfsdfsdf
